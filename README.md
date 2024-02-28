@@ -1,4 +1,4 @@
-# Cases de Análise de Dados
+# 🗃️ Cases de Análise de Dados
 Respeitando a lei LGDP (Lei Geral de Proteção de Dados), os dados trabalhado, tem a finalidade para EDA (Exploratory Data Analysis), sendo assim, de maneira ética e preservando a privacidade. 
 
 Entretanto, além de gerar insights e resolução, então assim desenvolver meu **know-how**:<br>
