@@ -7,12 +7,8 @@ Habilidades análiticas (**Analytical Skills**): Estatística, Matemática, Pens
 Conhecimentos (**Domain Knowledge**): Econometria, Finanças, Storytelling. <br>
 Habilidades interpessoais (**Soft Skills**): Comunicação efetiva, Trabalho em grupo, Criatividade, Ética de trabalho.
 
-<a href="https://www.kaggle.com/datasets/spscientist/students-performance-in-exams">Students Performance in Exams</a>
-<br>
-<a href="https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups">Unicorn Startups</a>
-
 ## 🗂️ Cases
-### 📄 1 - Projeto  [Name](link)
+### 📄 1 - Projeto  [Empresas Unicórnios](https://github.com/gaberibr/Cases_DataAnalysis/blob/main/Case_Unicorns.ipynb)
 > _Description_
 
 images
@@ -23,11 +19,11 @@ Results
 - 1
 - 2
 
-<sub> © [Name](link) </sub>
+<sub> © [Fonte de dados](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams) </sub>
 
 <hr>
 
-### 📄 2 - Projeto  [Name](link)
+### 📄 2 - Projeto [Performance dos Estudantes](https://github.com/gaberibr/Cases_DataAnalysis/blob/main/Case_Students_Performance_in_Exams.ipynb)
 > _Description_
 
 images
@@ -38,7 +34,7 @@ Results
 - 1
 - 2
 
-<sub> © [links](link) </sub>
+<sub> © [Fonte de dados](https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups) </sub>
 
 <hr>
 
