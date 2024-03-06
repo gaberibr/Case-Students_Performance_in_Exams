@@ -9,7 +9,7 @@ Habilidades interpessoais (**Soft Skills**): Comunicação efetiva, Trabalho em 
 
 ## 🗂️ Cases
 ### 📄 1 - Projeto  [Empresas Unicórnios](https://github.com/gaberibr/Cases_DataAnalysis/blob/main/Case_Unicorns.ipynb)
-> _Description_
+> _Empresarial._
 
 images
 
@@ -24,7 +24,7 @@ Results
 <hr>
 
 ### 📄 2 - Projeto [Performance dos Estudantes](https://github.com/gaberibr/Cases_DataAnalysis/blob/main/Case_Students_Performance_in_Exams.ipynb)
-> _Description_
+> _Educação._
 
 images
 
@@ -39,7 +39,7 @@ Results
 <hr>
 
 ### 📄 3 - Projeto  [Ações da Magalu](https://github.com/gaberibr/Cases_DataAnalysis/blob/main/Case_A%C3%A7%C3%B5es_da_Magalu.ipynb)
-> _Analisando as ações da Magalu no período de 1 ano (2021-2022)._
+> _Mercado financeiro. Analisando as ações da Magalu no período de 1 ano (2021-2022)._
 
 <img src="https://github.com/gaberibr/Cases_DataAnalysis/assets/99212007/0708c1ec-bcf0-481d-a7dc-e333a46c128c" width="500">
 <img src="https://github.com/gaberibr/Cases_DataAnalysis/assets/99212007/5c49462d-39f2-4ee6-89fb-297722ff7e1b" width="500">
