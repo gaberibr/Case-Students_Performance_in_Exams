@@ -55,7 +55,7 @@ Results
 - O que pode-se se levar em conta é que pode ser uma boa oportunidade para comprar ações, pois algum periodos já foram altos.
 
 #### 🛠️ TECNOLOGIAS UTILIZADAS
-- Python ( Numpy, Pandas, Matplotlib, Seaborn, Plotly)
+- Python (Numpy, Pandas, Matplotlib, Seaborn, Plotly)
 - Excel (Tratamento de dados, formatação condicional)
 
 <sub> © [links](link) </sub>
