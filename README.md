@@ -45,12 +45,8 @@ Results
 ### 📄 3 - Projeto  [Ações da Magalu](https://github.com/gaberibr/Cases_DataAnalysis/blob/main/Case_A%C3%A7%C3%B5es_da_Magalu.ipynb)
 > _Analisando as ações da Magalu no período de 1 ano (2021-2022)._
 
-images
-
 <img src="https://github.com/gaberibr/Cases_DataAnalysis/assets/99212007/0708c1ec-bcf0-481d-a7dc-e333a46c128c" width="500">
 <img src="https://github.com/gaberibr/Cases_DataAnalysis/assets/99212007/5c49462d-39f2-4ee6-89fb-297722ff7e1b" width="500">
-
-projects
 
 #### RESULTADOS
 - Apresentou uma alta, entre o periodo de Janeiro e Março do ano de 2021;
