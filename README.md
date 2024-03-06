@@ -48,11 +48,15 @@ Results
 <img src="https://github.com/gaberibr/Cases_DataAnalysis/assets/99212007/0708c1ec-bcf0-481d-a7dc-e333a46c128c" width="500">
 <img src="https://github.com/gaberibr/Cases_DataAnalysis/assets/99212007/5c49462d-39f2-4ee6-89fb-297722ff7e1b" width="500">
 
-#### RESULTADOS
+#### ✔️ RESULTADOS
 - Apresentou uma alta, entre o periodo de Janeiro e Março no ano de 2021;
 - Ao passar dos meses, apesar de ter uma alta no mês de Julho de 2021, posteriormente apresentou um declínio até o mês de janeiro de 2022;
 - Desmonstrou um começo promissor, porém teve uma queda.
 - O que pode-se se levar em conta é que pode ser uma boa oportunidade para comprar ações, pois algum periodos já foram altos.
+
+#### 🛠️ TECNOLOGIAS UTILIZADAS
+- Python ( Numpy, Pandas, Matplotlib, Seaborn, Plotly)
+- Excel (Tratamento de dados, formatação condicional)
 
 <sub> © [links](link) </sub>
 
