@@ -135,10 +135,9 @@ Results
 
 <hr>
 
-### 📄 9 - Projeto  [Name](link)
+### 📄 9 - Projeto  [Incêndios Florestais](https://github.com/gaberibr/Cases_DataAnalysis/blob/main/Case_Inc%C3%AAndios_Florestais.ipynb)
 > _Description_
-
-images
+<img src="https://github.com/gaberibr/Cases_DataAnalysis/assets/99212007/27bd851d-a227-40fd-ad40-37c9a449c018" width="500">
 
 projects
 
