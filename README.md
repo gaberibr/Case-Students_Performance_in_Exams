@@ -118,10 +118,12 @@ Results
 
 <hr>
 
-### 📄 8 - Projeto  [Name](link)
+### 📄 8 - Projeto  [Energia](https://github.com/gaberibr/Cases_DataAnalysis/blob/main/Case_Empresas_Energias.ipynb)
 > _Description_
 
 images
+
+<img src="https://github.com/gaberibr/Cases_DataAnalysis/assets/99212007/bbd47946-cb89-47e5-ba3f-fafb5dd9e5ad" width="500">
 
 projects
 
