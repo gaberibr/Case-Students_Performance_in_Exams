@@ -73,7 +73,7 @@ RESULTADOS
 
 <hr>
 
-### 📄 5 - Projeto  [Name](link)
+### 📄 5 - Projeto  [Salário](https://github.com/gaberibr/Cases_DataAnalysis/blob/main/Case_RH.ipynb)
 > _Description_
 
 images
@@ -84,7 +84,7 @@ Results
 - 1
 - 2
 
-<sub> © [links](link) </sub>
+<sub> © [Salary data - Simple linear regression](https://www.kaggle.com/datasets/karthickveerakumar/salary-data-simple-linear-regression?datasetId=10624&sortBy=voteCount) </sub>
 
 <hr>
 
