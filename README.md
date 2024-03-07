@@ -103,7 +103,7 @@ Results
 
 <hr>
 
-### 📄 7 - Projeto  [Name](link)
+### 📄 7 - Projeto  [Bitcoin](https://github.com/gaberibr/Cases_DataAnalysis/blob/main/Case_Unicorns.ipynb)
 > _Description_
 
 images
