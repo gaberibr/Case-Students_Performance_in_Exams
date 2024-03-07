@@ -96,7 +96,7 @@ Results
 ### 📄 6 - Projeto  [PIB per capita Brasil](https://github.com/gaberibr/Cases_DataAnalysis/blob/main/Case_PIB_Brasil.ipynb)
 > _Description_
 
-images
+<img src="https://github.com/gaberibr/Cases_DataAnalysis/assets/99212007/a45ca3de-4e66-46b7-ba15-80fdd012dbac" width="500">
 
 projects
 
