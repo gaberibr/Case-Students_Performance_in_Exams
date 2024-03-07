@@ -88,7 +88,7 @@ Results
 
 <hr>
 
-### 📄 6 - Projeto  [Name](link)
+### 📄 6 - Projeto  [PIB per capita Brasil](https://github.com/gaberibr/Cases_DataAnalysis/blob/main/Case_PIB_Brasil.ipynb)
 > _Description_
 
 images
@@ -99,7 +99,7 @@ Results
 - 1
 - 2
 
-<sub> © [links](link) </sub>
+<sub> © [Atlas Brasil](http://www.atlasbrasil.org.br/acervo/biblioteca) </sub>
 
 <hr>
 
