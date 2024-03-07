@@ -19,7 +19,7 @@ Results
 - 1
 - 2
 
-<sub> © [Fonte de dados](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams) </sub>
+<sub> © [Unicorn Startups](https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups) </sub>
 
 <hr>
 
@@ -34,7 +34,7 @@ Results
 - 1
 - 2
 
-<sub> © [Fonte de dados](https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups) </sub>
+<sub> © [Students Perfomance in Exams](https://www.kaggle.com/code/carriech/students-perfomance-in-exams-eda) </sub>
 
 <hr>
 
@@ -58,7 +58,7 @@ Results
 
 <hr>
 
-### 📄 4 - Projeto  [Name](link)
+### 📄 4 - Projeto  [Vendas de Videogames](https://github.com/gaberibr/Cases_DataAnalysis/blob/main/Case_Mercado_de_Games.ipynb)
 > _Description_
 
 images
@@ -69,7 +69,7 @@ RESULTADOS
 - 1
 - 2
 
-<sub> © [links](link) </sub>
+<sub> © [Video Games Sales Dataset](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset) </sub>
 
 <hr>
 
