@@ -168,3 +168,9 @@ Results
 
 
 </details>
+
+
+<details>
+<summary>2 cases elaborados com estatística descritiva com Python</summary>
+
+  <sub> © [1]() </sub>
