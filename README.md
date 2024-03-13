@@ -6,13 +6,12 @@ Habilidades técnicas (**Thecnical Skills**): Python, Excel, SQL, Power BI. <br>
 Habilidades análiticas (**Analytical Skills**): Estatística, Matemática, Pensamento crítico, flexibilidade cognitiva, Resolução de problemas complexos. <br>
 Conhecimentos (**Domain Knowledge**): Econometria, Finanças, Storytelling. <br>
 Habilidades interpessoais (**Soft Skills**): Comunicação efetiva, Trabalho em grupo, Criatividade, Ética de trabalho.
-
+## 🗂️ Cases
 <details>
 <summary> 10 Cases elaborados com orientação do curso Data Vinking (FREE COURSE)</summary>
 
 <sub> © [Data Vinking - Curso de Python moderno + Análise de dados](https://www.youtube.com/playlist?list=PLLWTDkRZXQa9YyC1LMbuDTz3XVC4E9ZQA) </sub>
-  
-## 🗂️ Cases
+
 ### 📄 1 - Projeto  [Empresas Unicórnios](https://github.com/gaberibr/Cases_DataAnalysis/blob/main/Case_Unicorns.ipynb)
 > _Empresarial._
 
