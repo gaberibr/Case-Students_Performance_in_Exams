@@ -8,7 +8,7 @@ Conhecimentos (**Domain Knowledge**): Econometria, Finanças, Storytelling. <br>
 Habilidades interpessoais (**Soft Skills**): Comunicação efetiva, Trabalho em grupo, Criatividade, Ética de trabalho.
 ## 🗂️ Cases
 <details>
-<summary> 10 Cases elaborados com orientação do curso Data Vinking (FREE COURSE)</summary>
+<summary> 📁 10 Cases elaborados com orientação do curso Data Vinking (FREE COURSE)</summary>
 
 <sub> © [Data Vinking - Curso de Python moderno + Análise de dados](https://www.youtube.com/playlist?list=PLLWTDkRZXQa9YyC1LMbuDTz3XVC4E9ZQA) </sub>
 
@@ -171,6 +171,6 @@ Results
 
 
 <details>
-<summary>2 cases elaborados com estatística descritiva com Python</summary>
+<summary>📂 2 cases elaborados com estatística descritiva com Python</summary>
 
   <sub> © [1]() </sub>
