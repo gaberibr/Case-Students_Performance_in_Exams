@@ -7,6 +7,7 @@ Habilidades análiticas (**Analytical Skills**): Estatística, Matemática, Pens
 Conhecimentos (**Domain Knowledge**): Econometria, Finanças, Storytelling. <br>
 Habilidades interpessoais (**Soft Skills**): Comunicação efetiva, Trabalho em grupo, Criatividade, Ética de trabalho.
 ## 🗂️ Cases
+
 <details>
 <summary> 📁 10 Cases elaborados com orientação do curso Data Vinking (FREE COURSE)</summary>
 
@@ -175,15 +176,17 @@ Results
 
   <sub> © [1]() </sub>
 
-  <details>
-<summary>📂 Cases</summary>
+<hr>
+</details>
 
-  <sub> © [1]() </sub>
+<details>
+  
+<summary>📂 Cases </summary>
 
-### 📄 1 - Projeto  [Doença Celíaca](https://github.com/gaberibr/Cases_DataAnalysis/blob/main/Case_Unicorns.ipynb)
+### 📄 1 - Projeto  [Doença Celíaca](link)
 > _Tópico: Saúde._
 
-images
+![image](https://github.com/gaberibr/Cases_DataAnalysis/assets/99212007/122b4798-5229-4fef-a476-517d46b7ec17)
 
 projects
 
@@ -194,3 +197,6 @@ Results
 <sub> © [Unicorn Startups](https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups) </sub>
 
 <hr>
+
+  <sub> © [1]() </sub>
+</details>
