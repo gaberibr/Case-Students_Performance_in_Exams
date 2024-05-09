@@ -174,3 +174,23 @@ Results
 <summary>📂 2 cases elaborados com estatística descritiva com Python</summary>
 
   <sub> © [1]() </sub>
+
+  <details>
+<summary>📂 Cases</summary>
+
+  <sub> © [1]() </sub>
+
+### 📄 1 - Projeto  [Doença Celíaca](https://github.com/gaberibr/Cases_DataAnalysis/blob/main/Case_Unicorns.ipynb)
+> _Tópico: Saúde._
+
+images
+
+projects
+
+Results
+- 1
+- 2
+
+<sub> © [Unicorn Startups](https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups) </sub>
+
+<hr>
